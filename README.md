@@ -40,3 +40,5 @@ Run the script using:
 
 ```bash
 ./vm.sh
+
+![QEMU VM Script Demo](s.png)
